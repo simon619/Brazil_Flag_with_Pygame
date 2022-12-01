@@ -4,6 +4,7 @@ Requirments:
 --------------------------
 - pygame == 2.1.2
 - python == 3.9.7
+- May need to install font: FreeSansBold.ttf
 
 
 Instructions:
