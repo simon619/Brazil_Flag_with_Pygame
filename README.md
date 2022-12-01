@@ -6,7 +6,7 @@ Requirments:
 - python == 3.9.7
 
 
-Instruction:
+Instructions:
 ------------------------
 - Press "Enter" to Start
 - Press "Space" to Restart
